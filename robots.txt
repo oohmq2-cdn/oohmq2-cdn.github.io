@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://oohmq2-cdn.github.io/sitemap.xml
